@@ -1,16 +1,34 @@
-## Hi there 👋
+# Future Creative Group (Pty) Ltd
 
-<!--
-**Creative4405/Creative4405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Enterprise Technology Solutions | South Africa
 
-Here are some ideas to get you started:
+Future Creative Group (Pty) Ltd is a South African technology company specialising in enterprise IT services, network infrastructure, security systems, cloud solutions, business communications, and digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+
+- Enterprise Network Infrastructure
+- Wi-Fi & Fibre Connectivity
+- Server & Cloud Solutions
+- Cybersecurity & Endpoint Protection
+- CCTV Surveillance Systems
+- Access Control & Intercom Systems
+- VoIP & Business Communications
+- Website Design & Development
+- Managed IT Support Services
+
+## Featured Projects
+
+- **Website-FCG** — Corporate website platform for Future Creative Group.
+- **xikalichani-brands-website** — Client website development project.
+
+## Business Information
+
+**Future Creative Group (Pty) Ltd**  
+Johannesburg, Gauteng, South Africa
+
+- 🌐 https://futurecreativegroup.co.za
+- 📧 lucky@futurecreativegroup.co.za
+
+---
+
+Delivering reliable, secure, and scalable technology solutions for businesses across South Africa.
