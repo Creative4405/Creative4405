@@ -18,8 +18,8 @@ Future Creative Group (Pty) Ltd is a South African technology company specialisi
 
 ## Featured Projects
 
-- **Website-FCG** — Corporate website platform for Future Creative Group.
-- **xikalichani-brands-website** — Client website development project.
+- **Website-FCG** - Corporate website platform for Future Creative Group.
+- **xikalichani-brands-website** - Client website development project.
 
 ## Business Information
 
@@ -27,7 +27,7 @@ Future Creative Group (Pty) Ltd is a South African technology company specialisi
 Johannesburg, Gauteng, South Africa
 
 - 🌐 https://futurecreativegroup.co.za
-- 📧 lucky@futurecreativegroup.co.za
+- 📧 info@futurecreativegroup.co.za
 
 ---
 
