@@ -1,116 +1,113 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Creative4405/Website-FCG/main/logo.png" alt="Future Creative Group Logo" width="140" />i
+<img src="https://raw.githubusercontent.com/Creative4405/Website-FCG/main/logo.png" alt="Future Creative Group Logo" width="150" />
 
 # Future Creative Group (Pty) Ltd
 
-### Enterprise IT • Cybersecurity • Network Infrastructure • Cloud • Business Communications
+### 🚀 IT • Cybersecurity • Networking • Cloud • Communications • Digital Solutions
 
-**Building secure, scalable, and reliable technology solutions for businesses across South Africa.**
+**Secure technology. Smarter infrastructure. Better business.**
 
-<a href="https://futurecreativegroup.co.za"><img src="https://img.shields.io/badge/Website-futurecreativegroup.co.za-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-<a href="mailto:lucky@futurecreativegroup.co.za"><img src="https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+Future Creative Group is a South African technology company delivering modern, reliable and scalable technology solutions for businesses.
+
+<br />
+
+<a href="https://futurecreativegroup.co.za"><img src="https://img.shields.io/badge/🌐%20Website-futurecreativegroup.co.za-0A66C2?style=for-the-badge" alt="Website"></a>
+<a href="mailto:lucky@futurecreativegroup.co.za"><img src="https://img.shields.io/badge/✉️%20Email-Contact%20Us-EA4335?style=for-the-badge" alt="Email"></a>
 <a href="https://github.com/Creative4405"><img src="https://img.shields.io/badge/GitHub-Creative4405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 ---
 
-## About Us
+## ✦ Who We Are
 
-**Future Creative Group (Pty) Ltd** is a South African technology company delivering enterprise-grade IT services, cybersecurity, networking, cloud solutions, business communications, and digital transformation services. We partner with organisations that require dependable infrastructure, proactive support, and modern technology platforms.
+**Future Creative Group (Pty) Ltd** provides professional technology services across **IT infrastructure, cybersecurity, networking, cloud, business communications, security systems and digital solutions**.
 
-Our focus is on long-term business value through secure architecture, operational excellence, and scalable technology deployments.
+We work with businesses that need technology that is **secure, dependable, scalable and built for real-world operations**.
 
----
-
-## Core Service Portfolio
-
-### Enterprise Infrastructure
-
-- Network design and deployment
-- Wi-Fi and fibre connectivity
-- Structured cabling and switching
-- Server and virtualization solutions
-- Backup and business continuity
-
-### Cybersecurity
-
-- Endpoint protection and EDR
-- Firewall deployment and management
-- Security hardening and monitoring
-- Access management and policy enforcement
-- Security awareness support
-
-### Security Systems
-
-- CCTV surveillance systems
-- Access control systems
-- Intercom and visitor management
-- Alarm integration and monitoring
-- Perimeter and electric fence solutions
-
-### Cloud & Communication Services
-
-- Business email hosting
-- Microsoft 365 and cloud integration
-- VoIP and IP telephony
-- Domain and DNS management
-- Remote collaboration solutions
-
-### Digital Solutions
-
-- Corporate website development
-- Customer portal development
-- Hosting and maintenance services
-- UI/UX improvements
-- Technical support and managed services
+Our approach combines practical engineering, modern platforms and long-term technical support to help organisations improve productivity, security and business continuity.
 
 ---
 
-## Featured Repositories
-
-| Repository | Description |
-|---|---|
-| **Website-FCG** | Official corporate website platform for Future Creative Group. |
-| **xikalichani-brands-website** | Client website design and development project. |
-
----
-
-## Technology Focus
+## 🧩 What We Do
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Infrastructure**
+### 🖥️ IT & Infrastructure
 
-- pfSense
-- MikroTik
-- UniFi
-- Windows Server
-- Proxmox VE
-
-</td>
-<td valign="top">
-
-**Security**
-
-- Kaspersky EDR
-- Firewall Security
-- Network Monitoring
-- Endpoint Management
+- Network design & deployment
+- Wi-Fi & fibre infrastructure
+- Structured cabling & switching
+- Servers & virtualization
+- IT support & maintenance
+- Backup & business continuity
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-**Web & Cloud**
+### 🛡️ Cybersecurity
 
-- HTML5 / CSS3 / JavaScript
-- PHP
-- DirectAdmin
-- Cloud Hosting
-- Email Platforms
+- Endpoint protection & EDR
+- Firewall deployment & management
+- Security hardening
+- Network monitoring
+- Access management
+- Security policies & controls
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Security Systems
+
+- CCTV surveillance
+- Access control
+- Intercom systems
+- Alarm systems
+- Electric fencing
+- Gate automation
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Communications
+
+- Business email hosting
+- Microsoft 365 integration
+- VoIP & IP telephony
+- Domains & DNS
+- Cloud hosting
+- Remote collaboration solutions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Digital Solutions
+
+- Corporate websites
+- Customer portals
+- Web hosting
+- UI/UX improvements
+- Digital business solutions
+- Website maintenance
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Managed Technology
+
+- Remote & onsite support
+- Proactive maintenance
+- Infrastructure management
+- Technical consulting
+- System monitoring
+- Technology optimisation
 
 </td>
 </tr>
@@ -118,33 +115,112 @@ Our focus is on long-term business value through secure architecture, operationa
 
 ---
 
-## Business Information
+## 📂 Featured Projects
 
-**Future Creative Group (Pty) Ltd**  
-Johannesburg, Gauteng, South Africa
-
-- Website: https://futurecreativegroup.co.za
-- Email: lucky@futurecreativegroup.co.za
+| Project | Description | Repository |
+|:---|:---|:---:|
+| 🏢 **Future Creative Group Website** | Official corporate website and digital platform for Future Creative Group. | [View Project](https://github.com/Creative4405/Website-FCG) |
+| 💼 **Ntsako Innovative Website** | Professional corporate website developed for Ntsako Innovative. | [View Project](https://github.com/Creative4405/ntsako-website) |
+| 🎨 **Xikalichani Brands Website** | Website design and development project for Xikalichani Brands. | [View Project](https://github.com/Creative4405/xikalichani-brands-website) |
+| ☁️ **FCG Cloud Website** | Website platform for FCG Cloud hosting and digital services. | [View Project](https://github.com/Creative4405/FCG_Cloud_Premium_Website) |
 
 ---
 
-## Professional Standards
+## ⚙️ Technology Ecosystem
 
-- Secure-by-default implementations
-- Documentation-driven delivery
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Infrastructure
+
+`pfSense`  
+`MikroTik`  
+`UniFi`  
+`Windows Server`  
+`Proxmox VE`  
+`Network Monitoring`
+
+</td>
+<td valign="top" width="33%">
+
+### Security
+
+`Kaspersky EDR`  
+`Firewalls`  
+`Endpoint Security`  
+`Access Control`  
+`CCTV`  
+`Security Hardening`
+
+</td>
+<td valign="top" width="33%">
+
+### Web & Cloud
+
+`HTML5`  
+`CSS3`  
+`JavaScript`  
+`PHP`  
+`DirectAdmin`  
+`Cloud Hosting`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Our Focus
+
+> **Technology should enable business — not become a business problem.**
+
+We focus on solutions that are:
+
+**🔒 Secure** — designed with security and resilience in mind.  
+**⚡ Reliable** — built for operational continuity and performance.  
+**📈 Scalable** — ready to grow alongside the business.  
+**🧠 Practical** — aligned with real business requirements.  
+**🤝 Supported** — backed by professional technical assistance.
+
+---
+
+## 🌍 Based in South Africa
+
+**Future Creative Group (Pty) Ltd**  
+Johannesburg, Gauteng, South Africa 🇿🇦
+
+🌐 **Website:** [futurecreativegroup.co.za](https://futurecreativegroup.co.za)  
+✉️ **Email:** [lucky@futurecreativegroup.co.za](mailto:lucky@futurecreativegroup.co.za)  
+💻 **GitHub:** [github.com/Creative4405](https://github.com/Creative4405)
+
+---
+
+## 📌 Professional Standards
+
+- Secure-by-default technology implementations
+- Structured and documented deployments
 - Client confidentiality and data protection
-- Structured change management
-- Reliable support and maintenance practices
-- Continuous technology improvement
+- Controlled production changes
+- Proactive support and maintenance
+- Continuous improvement and modernisation
 
 ---
 
 <div align="center">
 
-### Let’s Build Something Reliable
+## 🚀 Technology That Works For Business
 
-We help businesses modernize their technology environment with secure infrastructure, cloud services, communications platforms, and professional IT support.
+**Future Creative Group (Pty) Ltd** helps organisations build a stronger technology foundation through secure infrastructure, modern cloud platforms, business communications and professional IT services.
 
-**Future Creative Group (Pty) Ltd — Technology that works for business.**
+<br />
+
+<a href="https://futurecreativegroup.co.za"><strong>Visit Our Website →</strong></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Made%20in-South%20Africa-007A4D?style=flat-square" alt="Made in South Africa">
+<img src="https://img.shields.io/badge/Focused%20on-Business%20Technology-0A66C2?style=flat-square" alt="Business Technology">
+<img src="https://img.shields.io/badge/Approach-Secure%20%7C%20Reliable%20%7C%20Scalable-111827?style=flat-square" alt="Secure Reliable Scalable">
 
 </div>
